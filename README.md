@@ -5,7 +5,7 @@ This project presents an interactive HR analytics dashboard designed to analyze 
 
 ## 📂 Project Files  
 - **HR_Analytics_Dashboard.twbx** – The main Tableau file containing the interactive dashboard.  
-- **HR_Dataset.csv** – The dataset used for analysis.  
+- **HR Data.xlsx** – The dataset used for analysis.  
 - **README.md** – Project documentation and usage guide.  
 
 ## 🚀 Getting Started  
